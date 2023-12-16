@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d7fd1d0c77a71b8d2ab880606baac8a",
+    "revision": "db4a5dadf502f9ab7732a365e4fd3891",
     "url": "/Pol-Sazeh/index.html"
   },
   {
-    "revision": "6df7f7017d41209d58fb",
+    "revision": "8ee5e50e4e564d9744a2",
     "url": "/Pol-Sazeh/static/css/2.b821fc4b.chunk.css"
   },
   {
-    "revision": "4e5833a4c3413237352f",
+    "revision": "ccb87a711070228e46eb",
     "url": "/Pol-Sazeh/static/css/main.bc6811bf.chunk.css"
   },
   {
-    "revision": "6df7f7017d41209d58fb",
-    "url": "/Pol-Sazeh/static/js/2.bf60350c.chunk.js"
+    "revision": "8ee5e50e4e564d9744a2",
+    "url": "/Pol-Sazeh/static/js/2.ada0fd92.chunk.js"
   },
   {
     "revision": "1bde7cbddc37293b60694441b834365b",
-    "url": "/Pol-Sazeh/static/js/2.bf60350c.chunk.js.LICENSE.txt"
+    "url": "/Pol-Sazeh/static/js/2.ada0fd92.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e5833a4c3413237352f",
-    "url": "/Pol-Sazeh/static/js/main.e1b519dc.chunk.js"
+    "revision": "ccb87a711070228e46eb",
+    "url": "/Pol-Sazeh/static/js/main.6fa61e5e.chunk.js"
   },
   {
     "revision": "a2715f2028ea93a6607c",
